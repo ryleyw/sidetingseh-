@@ -1,0 +1,16 @@
+Hello ryleyw,
+
+Welcome to your first personal repo on Github.
+
+Starting a project can seem daunting and feel overwhelming...
+That's because it is. 
+
+The first steps are always the hardest.
+Just thinking about how to approach the problem can make people nervous.
+
+Try to keep your project components as separate as possible.
+You'll want to redo something, maybe in a different language, using a different framework, who knows.
+
+And when you do, just make sure you haven't come too far.
+
+- DJ HB
