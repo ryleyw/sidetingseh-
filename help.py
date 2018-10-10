@@ -13,9 +13,16 @@ def does_she_love_me(i, state):
         time.sleep(2)
         print("So it's settled...")
         time.sleep(2)
-        print("SHE LOVES ME!") if state is True else print("she loves me not... :(")
+        if state is True:
+            print("SHE LOVES ME!") 
+        else:
+            print("she loves me not... :(")
     else:
-        love() if state is True else not_love()
+        if state is True:
+            love()
+        else:
+            not_love()
+        
         does_she_love_me(i - 1, not state)
 
 does_she_love_me(rand.randint(5, 18), True)
